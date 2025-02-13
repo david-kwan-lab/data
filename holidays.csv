@@ -1,46 +1,46 @@
 date,region,description
-2025-01-01,HK,The first day of January
-2025-01-01,CN,New Year's Day
-2025-01-28,CN,Spring Festival
-2025-01-29,HK,Lunar New Year's Day
-2025-01-29,CN,Spring Festival
-2025-01-30,HK,The second day of Lunar New Year
-2025-01-30,CN,Spring Festival
-2025-01-31,HK,The third day of Lunar New Year
-2025-01-31,CN,Spring Festival
-2025-02-01,CN,Spring Festival
-2025-02-02,CN,Spring Festival
-2025-02-03,CN,Spring Festival
-2025-02-04,CN,Spring Festival
-2025-04-04,HK,Ching Ming Festival
-2025-04-04,CN,Qingming Festival
-2025-04-05,CN,Qingming Festival
-2025-04-06,CN,Qingming Festival
-2025-04-18,HK,Good Friday
-2025-04-19,HK,The day following Good Friday
-2025-04-21,HK,Easter Monday
-2025-05-01,HK,Labour Day
-2025-05-01,CN,Labor Day
-2025-05-02,CN,Labor Day
-2025-05-03,CN,Labor Day
-2025-05-04,CN,Labor Day
-2025-05-05,HK,The Birthday of the Buddha
-2025-05-05,CN,Labor Day
-2025-05-31,HK,Tuen Ng Festival
-2025-05-31,CN,Dragon Boat Festival
-2025-06-01,CN,Dragon Boat Festival
-2025-06-02,CN,Dragon Boat Festival
-2025-07-01,HK,Hong Kong Special Administrative Region Establishment Day
-2025-10-01,HK,National Day
-2025-10-01,CN,National Day and Mid-Autumn Festival
-2025-10-02,CN,National Day and Mid-Autumn Festival
-2025-10-03,CN,National Day and Mid-Autumn Festival
-2025-10-04,CN,National Day and Mid-Autumn Festival
-2025-10-05,CN,National Day and Mid-Autumn Festival
-2025-10-06,CN,National Day and Mid-Autumn Festival
-2025-10-07,HK,The day following the Chinese Mid-Autumn Festival
-2025-10-07,CN,National Day and Mid-Autumn Festival
-2025-10-08,CN,National Day and Mid-Autumn Festival
-2025-10-29,HK,Chung Yeung Festival
-2025-12-25,HK,Christmas Day
-2025-12-26,HK,The first weekday after Christmas Day
+2025-01-01,Office,The first day of January
+2025-01-01,Factories,New Year's Day
+2025-01-28,Factories,Spring Festival
+2025-01-29,Office,Lunar New Year's Day
+2025-01-29,Factories,Spring Festival
+2025-01-30,Office,The second day of Lunar New Year
+2025-01-30,Factories,Spring Festival
+2025-01-31,Office,The third day of Lunar New Year
+2025-01-31,Factories,Spring Festival
+2025-02-01,Factories,Spring Festival
+2025-02-02,Factories,Spring Festival
+2025-02-03,Factories,Spring Festival
+2025-02-04,Factories,Spring Festival
+2025-04-04,Office,Ching Ming Festival
+2025-04-04,Factories,Qingming Festival
+2025-04-05,Factories,Qingming Festival
+2025-04-06,Factories,Qingming Festival
+2025-04-18,Office,Good Friday
+2025-04-19,Office,The day following Good Friday
+2025-04-21,Office,Easter Monday
+2025-05-01,Office,Labour Day
+2025-05-01,Factories,Labor Day
+2025-05-02,Factories,Labor Day
+2025-05-03,Factories,Labor Day
+2025-05-04,Factories,Labor Day
+2025-05-05,Office,The Birthday of the Buddha
+2025-05-05,Factories,Labor Day
+2025-05-31,Office,Tuen Ng Festival
+2025-05-31,Factories,Dragon Boat Festival
+2025-06-01,Factories,Dragon Boat Festival
+2025-06-02,Factories,Dragon Boat Festival
+2025-07-01,Office,Hong Kong Special Administrative Region Establishment Day
+2025-10-01,Office,National Day
+2025-10-01,Factories,National Day and Mid-Autumn Festival
+2025-10-02,Factories,National Day and Mid-Autumn Festival
+2025-10-03,Factories,National Day and Mid-Autumn Festival
+2025-10-04,Factories,National Day and Mid-Autumn Festival
+2025-10-05,Factories,National Day and Mid-Autumn Festival
+2025-10-06,Factories,National Day and Mid-Autumn Festival
+2025-10-07,Office,The day following the Chinese Mid-Autumn Festival
+2025-10-07,Factories,National Day and Mid-Autumn Festival
+2025-10-08,Factories,National Day and Mid-Autumn Festival
+2025-10-29,Office,Chung Yeung Festival
+2025-12-25,Office,Christmas Day
+2025-12-26,Office,The first weekday after Christmas Day
